@@ -41,7 +41,4 @@ The project involves exploring the dataset to answer key business questions such
 - **Power BI**: For visualizing trends, patterns, and insights.
 
 ## Future Work
-- Complete the analysis for all planned business questions.
-- Share key insights and recommendations based on the findings.
-- Build predictive models to forecast churn.
-- Optimize the analysis and visualizations.
+- Complete the analysis and recommendations based on the findings.
