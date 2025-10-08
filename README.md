@@ -40,29 +40,34 @@ The project explores the dataset to answer key business questions such as:
 •	Gender: Female customers (56%) churn slightly more than males (44%).
 •	Age Group: The 40–49 and 50–64 age ranges show the highest churn, while younger customers (18–29) are the least likely to leave.
 •	Geography: Germany records the highest churn rate, followed by France, while Spain has the lowest.
+
 ➡️ Conclusion: Middle-aged female customers in Germany are the most likely to churn.
-________________________________________
+
 **2. Credit Score and Churn**
 •	Customers with lower credit scores (300–669) churn significantly more often than those with high scores (740+).
 •	The "Fair" credit category (580–669) has the highest number of churned customers (685).
+
 ➡️ Conclusion: There is a negative correlation between credit score and churn rate — lower scores imply higher risk.
-________________________________________
+
 **3. Tenure and Churn**
 •	Customers with shorter tenures (<5 years) have higher churn rates.
 •	Those with longer tenures (8–10 years) are more likely to stay loyal.
+
 ➡️ Conclusion: Customer loyalty increases with tenure, highlighting the importance of early-stage engagement.
-________________________________________
+
 **4. Active vs. Inactive Members**
 •	Inactive members are significantly more likely to churn.
 o	Inactive Females: 725 churned
 o	Active Females: 414 churned
 o	Inactive Males: 578 churned
 o	Active Males: 321 churned
+
 ➡️ Conclusion: Engagement reduces churn — active members demonstrate stronger retention.
-________________________________________
+
 **5. Satisfaction and Churn**
 •	The average satisfaction score among churned customers is 3.0 / 5.
 •	Moderate satisfaction indicates that customer experience improvements could reduce churn.
+
 ➡️ Conclusion: Increasing satisfaction and proactive feedback management can meaningfully improve retention.
 
 ## Tools Used
