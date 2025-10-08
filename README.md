@@ -70,9 +70,23 @@ The project explores the dataset to answer key business questions such as:
 
 ➡️ Conclusion: Increasing satisfaction and proactive feedback management can meaningfully improve retention.
 
+🧠 Recommendations
+1.	Customer Segmentation & Retention Programs:
+  *	Focus retention initiatives on middle-aged female customers with low-to-medium credit scores in Germany.
+  *	Offer tailored financial products and relationship incentives.
+2.	Customer Engagement Strategies:
+  * Encourage inactive customers to use services through loyalty programs, product education, and targeted offers.
+3.	Credit Improvement Programs:
+  *	Provide credit counseling or tools to help customers improve credit health, reducing churn risk.
+4.	Early Tenure Retention:
+  *	Implement strong onboarding and follow-up systems for customers in their first few years.
+5.	Satisfaction Monitoring:
+  *	Conduct regular surveys and use predictive models to detect early signs of dissatisfaction.
+
+
 ## Tools Used
 - **Microsoft Excel**: For initial data exploration and analysis.
 - **Power BI**: For visualizing trends, patterns, and insights.
 
 ## Future Work
-- Complete the analysis and recommendations based on the findings.
+
