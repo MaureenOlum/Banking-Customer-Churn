@@ -57,10 +57,10 @@ The project explores the dataset to answer key business questions such as:
 
 **4. Active vs. Inactive Members**
 - Inactive members are significantly more likely to churn.
-*	Inactive Females: 725 churned
-*	Active Females: 414 churned
-*	Inactive Males: 578 churned
-*	Active Males: 321 churned
+  *	Inactive Females: 725 churned
+  *	Active Females: 414 churned
+  *	Inactive Males: 578 churned
+  *	Active Males: 321 churned
 
 ➡️ Conclusion: Engagement reduces churn — active members demonstrate stronger retention.
 
