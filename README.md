@@ -1,5 +1,4 @@
 # Customer Churn Analysis
-
 This repository contains an analysis of banking customer churn data. The dataset provides insights into customer behavior and characteristics, aiming to identify factors contributing to churn and to inform data-driven business decisions.
 
 ## Dataset
