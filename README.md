@@ -70,7 +70,7 @@ The project explores the dataset to answer key business questions such as:
 
 ➡️ Conclusion: Increasing satisfaction and proactive feedback management can meaningfully improve retention.
 
-🧠 Recommendations
+## 🧠 Recommendations
 1.	Customer Segmentation & Retention Programs:
   *	Focus retention initiatives on middle-aged female customers with low-to-medium credit scores in Germany.
   *	Offer tailored financial products and relationship incentives.
